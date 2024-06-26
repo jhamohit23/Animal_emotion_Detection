@@ -1,0 +1,58 @@
+2024-06-04 15:34:30,628 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 15:34:30,635 - src.data_preparation - INFO - Created annotation CSV: annotation.csv
+2024-06-04 15:35:20,844 - src.model - INFO - Model trained successfully
+2024-06-04 15:38:35,308 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 15:38:35,315 - src.data_preparation - INFO - Created annotation CSV: annotation.csv
+2024-06-04 15:39:27,912 - src.model - INFO - Model trained successfully
+2024-06-04 15:39:30,233 - tensorflow - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-04 15:40:01,286 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 15:40:01,293 - src.data_preparation - INFO - Created annotation CSV: annotation.csv
+2024-06-04 15:40:53,299 - src.model - INFO - Model trained successfully
+2024-06-04 15:40:53,322 - __main__ - ERROR - An error occurred: 'tuple' object has no attribute 'predict'
+2024-06-04 15:49:45,848 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 15:49:45,851 - src.data_preparation - INFO - Created annotation CSV: annotation.csv
+2024-06-04 15:50:37,357 - src.model - INFO - Model trained successfully
+2024-06-04 15:50:39,283 - tensorflow - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-04 15:50:59,689 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 15:50:59,696 - src.data_preparation - INFO - Created annotation CSV: annotation.csv
+2024-06-04 15:51:51,179 - src.model - INFO - Model trained successfully
+2024-06-04 16:04:21,783 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 16:04:21,783 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 16:05:14,126 - src.model - INFO - Model trained successfully
+2024-06-04 16:05:15,975 - tensorflow - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-04 16:05:27,498 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 16:05:27,501 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 16:06:11,205 - src.model - INFO - Model trained successfully
+2024-06-04 16:06:53,917 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 16:06:53,918 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 16:07:28,368 - src.model - INFO - Model trained successfully
+2024-06-04 16:49:46,402 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 16:49:46,403 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 16:50:55,661 - src.model - INFO - Model trained successfully
+2024-06-04 16:50:56,564 - tensorflow - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-04 16:51:05,564 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 16:51:05,566 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 16:52:14,824 - src.model - INFO - Model trained successfully
+2024-06-04 17:02:54,145 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 17:02:54,156 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 17:04:10,918 - src.model - INFO - Model trained successfully
+2024-06-04 17:13:17,893 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 17:13:17,904 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 17:14:33,129 - src.model - INFO - Model trained successfully
+2024-06-04 17:24:19,167 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 17:24:19,171 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 17:25:30,388 - src.model - INFO - Model trained successfully
+2024-06-04 18:00:48,410 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 18:00:48,417 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 18:01:58,817 - src.model - INFO - Model trained successfully
+2024-06-04 18:01:58,936 - tensorflow - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002A94BA467A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 19:16:21,294 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 19:16:21,309 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv
+2024-06-04 19:18:08,203 - src.model - INFO - Model trained successfully
+2024-06-04 19:18:08,420 - tensorflow - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002A92C8CB560> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 20:53:28,530 - src.data_preparation - INFO - Created directories: happy, sad, hungry
+2024-06-04 20:53:28,545 - src.data_preparation - INFO - Created annotation CSV with animal types: annotation.csv

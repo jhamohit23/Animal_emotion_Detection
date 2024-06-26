@@ -1,0 +1,153 @@
+animal_images,animal_emotions,animal_type
+dataset\happy\Cat (2).jpeg,happy,cat
+dataset\happy\Cat (2).jpg,happy,cat
+dataset\happy\Cat (3).jpeg,happy,cat
+dataset\happy\Cat (3).jpg,happy,cat
+dataset\happy\Cat (4).jpeg,happy,cat
+dataset\happy\Cat (4).jpg,happy,cat
+dataset\happy\Cat (5).jpeg,happy,cat
+dataset\happy\Cat (5).jpg,happy,cat
+dataset\happy\Cat (6).jpg,happy,cat
+dataset\happy\Cat (7).jpg,happy,cat
+dataset\happy\Cat (8).jpg,happy,cat
+dataset\happy\Cat (9).jpg,happy,cat
+dataset\happy\Cat.jpeg,happy,cat.jpeg
+dataset\happy\Cat.jpg,happy,cat.jpg
+dataset\happy\Dog (10).jpg,happy,dog
+dataset\happy\Dog (11).jpg,happy,dog
+dataset\happy\Dog (2).jpeg,happy,dog
+dataset\happy\Dog (2).jpg,happy,dog
+dataset\happy\Dog (3).jpeg,happy,dog
+dataset\happy\Dog (3).jpg,happy,dog
+dataset\happy\Dog (4).jpeg,happy,dog
+dataset\happy\Dog (4).jpg,happy,dog
+dataset\happy\Dog (5).jpeg,happy,dog
+dataset\happy\Dog (5).jpg,happy,dog
+dataset\happy\Dog (6).jpeg,happy,dog
+dataset\happy\Dog (6).jpg,happy,dog
+dataset\happy\Dog (7).jpg,happy,dog
+dataset\happy\Dog (8).jpg,happy,dog
+dataset\happy\Dog (9).jpg,happy,dog
+dataset\happy\Dog.jpeg,happy,dog.jpeg
+dataset\happy\Dog.jpg,happy,dog.jpg
+dataset\happy\download (14).jpeg,happy,download
+dataset\happy\download (15).jpeg,happy,download
+dataset\happy\Monkey (10).jpg,happy,monkey
+dataset\happy\Monkey (11).jpg,happy,monkey
+dataset\happy\Monkey (12).jpg,happy,monkey
+dataset\happy\Monkey (2).jpeg,happy,monkey
+dataset\happy\Monkey (2).jpg,happy,monkey
+dataset\happy\Monkey (3).jpeg,happy,monkey
+dataset\happy\Monkey (3).jpg,happy,monkey
+dataset\happy\Monkey (4).jpg,happy,monkey
+dataset\happy\Monkey (5).jpg,happy,monkey
+dataset\happy\Monkey (6).jpg,happy,monkey
+dataset\happy\Monkey (7).jpg,happy,monkey
+dataset\happy\Monkey (8).jpg,happy,monkey
+dataset\happy\Monkey (9).jpg,happy,monkey
+dataset\happy\Monkey.jpeg,happy,monkey.jpeg
+dataset\happy\Monkey.jpg,happy,monkey.jpg
+dataset\sad\Cat (10).jpg,sad,cat
+dataset\sad\Cat (11).jpg,sad,cat
+dataset\sad\Cat (12).jpg,sad,cat
+dataset\sad\Cat (13).jpg,sad,cat
+dataset\sad\Cat (2).jpeg,sad,cat
+dataset\sad\Cat (2).jpg,sad,cat
+dataset\sad\Cat (3).jpeg,sad,cat
+dataset\sad\Cat (3).jpg,sad,cat
+dataset\sad\Cat (4).jpeg,sad,cat
+dataset\sad\Cat (4).jpg,sad,cat
+dataset\sad\Cat (5).jpeg,sad,cat
+dataset\sad\Cat (5).jpg,sad,cat
+dataset\sad\Cat (6).jpeg,sad,cat
+dataset\sad\Cat (6).jpg,sad,cat
+dataset\sad\Cat (7).jpg,sad,cat
+dataset\sad\Cat (8).jpg,sad,cat
+dataset\sad\Cat (9).jpg,sad,cat
+dataset\sad\Cat.jpeg,sad,cat.jpeg
+dataset\sad\Cat.jpg,sad,cat.jpg
+dataset\sad\Dog (2).jpeg,sad,dog
+dataset\sad\Dog (2).jpg,sad,dog
+dataset\sad\Dog (3).jpeg,sad,dog
+dataset\sad\Dog (3).jpg,sad,dog
+dataset\sad\Dog (4).jpeg,sad,dog
+dataset\sad\Dog (4).jpg,sad,dog
+dataset\sad\Dog (5).jpeg,sad,dog
+dataset\sad\Dog (5).jpg,sad,dog
+dataset\sad\Dog (6).jpeg,sad,dog
+dataset\sad\Dog (6).jpg,sad,dog
+dataset\sad\Dog (7).jpg,sad,dog
+dataset\sad\Dog (8).jpg,sad,dog
+dataset\sad\Dog (9).jpg,sad,dog
+dataset\sad\Dog.jpeg,sad,dog.jpeg
+dataset\sad\Dog.jpg,sad,dog.jpg
+dataset\sad\Monkey (2).jpeg,sad,monkey
+dataset\sad\Monkey (2).jpg,sad,monkey
+dataset\sad\Monkey (3).jpeg,sad,monkey
+dataset\sad\Monkey (3).jpg,sad,monkey
+dataset\sad\Monkey (4).jpg,sad,monkey
+dataset\sad\Monkey (5).jpg,sad,monkey
+dataset\sad\Monkey (6).jpg,sad,monkey
+dataset\sad\Monkey (7).jpg,sad,monkey
+dataset\sad\Monkey (8).jpg,sad,monkey
+dataset\sad\Monkey (9).jpg,sad,monkey
+dataset\sad\Monkey.jpeg,sad,monkey.jpeg
+dataset\sad\Monkey.jpg,sad,monkey.jpg
+dataset\hungry\Cat (10).jpg,hungry,cat
+dataset\hungry\Cat (11).jpg,hungry,cat
+dataset\hungry\Cat (12).jpg,hungry,cat
+dataset\hungry\Cat (13).jpg,hungry,cat
+dataset\hungry\Cat (14).jpg,hungry,cat
+dataset\hungry\Cat (15).jpg,hungry,cat
+dataset\hungry\Cat (16).jpg,hungry,cat
+dataset\hungry\Cat (17).jpg,hungry,cat
+dataset\hungry\Cat (18).jpg,hungry,cat
+dataset\hungry\Cat (2).jpeg,hungry,cat
+dataset\hungry\Cat (2).jpg,hungry,cat
+dataset\hungry\Cat (3).jpg,hungry,cat
+dataset\hungry\Cat (4).jpg,hungry,cat
+dataset\hungry\Cat (5).jpg,hungry,cat
+dataset\hungry\Cat (6).jpg,hungry,cat
+dataset\hungry\Cat (7).jpg,hungry,cat
+dataset\hungry\Cat (8).jpg,hungry,cat
+dataset\hungry\Cat (9).jpg,hungry,cat
+dataset\hungry\Cat.jpeg,hungry,cat.jpeg
+dataset\hungry\Cat.jpg,hungry,cat.jpg
+dataset\hungry\Dog (10).jpg,hungry,dog
+dataset\hungry\Dog (11).jpg,hungry,dog
+dataset\hungry\Dog (12).jpg,hungry,dog
+dataset\hungry\Dog (13).jpg,hungry,dog
+dataset\hungry\Dog (14).jpg,hungry,dog
+dataset\hungry\Dog (15).jpg,hungry,dog
+dataset\hungry\Dog (16).jpg,hungry,dog
+dataset\hungry\Dog (2).jpeg,hungry,dog
+dataset\hungry\Dog (2).jpg,hungry,dog
+dataset\hungry\Dog (3).jpeg,hungry,dog
+dataset\hungry\Dog (3).jpg,hungry,dog
+dataset\hungry\Dog (4).jpeg,hungry,dog
+dataset\hungry\Dog (4).jpg,hungry,dog
+dataset\hungry\Dog (5).jpg,hungry,dog
+dataset\hungry\Dog (6).jpg,hungry,dog
+dataset\hungry\Dog (7).jpg,hungry,dog
+dataset\hungry\Dog (8).jpg,hungry,dog
+dataset\hungry\Dog (9).jpg,hungry,dog
+dataset\hungry\Dog.jpeg,hungry,dog.jpeg
+dataset\hungry\Dog.jpg,hungry,dog.jpg
+dataset\hungry\Monkey (10).jpg,hungry,monkey
+dataset\hungry\Monkey (11).jpg,hungry,monkey
+dataset\hungry\Monkey (12).jpg,hungry,monkey
+dataset\hungry\Monkey (13).jpg,hungry,monkey
+dataset\hungry\Monkey (14).jpg,hungry,monkey
+dataset\hungry\Monkey (15).jpg,hungry,monkey
+dataset\hungry\Monkey (16).jpg,hungry,monkey
+dataset\hungry\Monkey (2).jpeg,hungry,monkey
+dataset\hungry\Monkey (2).jpg,hungry,monkey
+dataset\hungry\Monkey (3).jpg,hungry,monkey
+dataset\hungry\Monkey (4).jpg,hungry,monkey
+dataset\hungry\Monkey (5).jpg,hungry,monkey
+dataset\hungry\Monkey (6).jpg,hungry,monkey
+dataset\hungry\Monkey (7).jpg,hungry,monkey
+dataset\hungry\Monkey (8).jpg,hungry,monkey
+dataset\hungry\Monkey (9).jpg,hungry,monkey
+dataset\hungry\Monkey.jpeg,hungry,monkey.jpeg
+dataset\hungry\Monkey.jpg,hungry,monkey.jpg
